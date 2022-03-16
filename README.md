@@ -18,6 +18,11 @@ I'm a young French self taught developper, I'm known as Marage.
 
 ## Projects
 - Dead by Gun Smoke
+```markdown
+  ! I don't have any story yet on my game
+Dead by Gun Smoke is a First Person / Third Person intense tactical shooter where your main goal is to keep as much safe lives as you could.
+I'm aiming to do a game like the iconic SWAT 4, some of the gameplay from the series Ghost Recon... 
+```
 
 [![Discord](https://img.shields.io/badge/Dead_by_Gun_Smoke-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8T2Ba2V2hj)
 
@@ -29,4 +34,9 @@ I'm a young French self taught developper, I'm known as Marage.
 
 
 ## Collaboration Projects
-- Hexane
+- Hexane : A game from [Oxi](https://github.com/oxi-dev0) 
+```markdown
+Hexane is a WORK-IN-PROGRESS open-world, action-adventure story game. 
+In the dystopian city of Athica, the Government rules over all 
+But, as the city sinks further into a financial crisis, The Government spend their last funds defending its repressive system ...
+```
