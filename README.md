@@ -12,13 +12,15 @@ I'm a young French self taught developper, I'm known as Marage.
 - JavaScript
 - HTML5
 - CSS
-- 
+
 ## Engines
 - Unreal Engine
 
 ### Projects
 - Dead by Gun Smoke
-
+## Personal Projects 
+|Name         |Clipboard Master                                                 |Drum Master                                          |
+|Information  |Add the possiblity to easily copy paste content between devices  |Quick drum rythm creator made for my little brother  |
 [![Discord](https://img.shields.io/badge/Dead_by_Gun_Smoke-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8T2Ba2V2hj)
 - Clipboard Master
 
