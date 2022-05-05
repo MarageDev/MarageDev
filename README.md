@@ -12,6 +12,7 @@ I'm a young French self taught developper, I'm known as Marage.
 - JavaScript
 - HTML5
 - CSS
+- Blueprints ( Visual Scripting in Unreal Engine )
 
 ### Engines
 - Unreal Engine
