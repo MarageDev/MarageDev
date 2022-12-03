@@ -1,5 +1,5 @@
 # Informations
-I'm a young French self taught developper, I'm known as Marage.
+I'm a French self taught developper and I'm coding on my spare time.
 
 ### Contact
 [![Marage](https://img.shields.io/badge/Marage-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
