@@ -5,17 +5,17 @@ I'm a French self taught developper and I'm coding on my spare time.
 [![Marage](https://img.shields.io/badge/Marage-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
 [![Discord](https://img.shields.io/badge/Marage-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/729076099274768414)
 [![Reddit](https://img.shields.io/badge/Marage-%23FF5000.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/MarageDev)
-
+[![Website](https://img.shields.io/badge/Website-9342f5?style=for-the-badge&logo=Github)](https://maragedev.github.io/Dead-by-Gun-Smoke/)
 ## Coding Experience
 ### Languages
 - Python
 - JavaScript
-- HTML5
-- CSS
+- HTML5 & CSS
 - Blueprints ( Visual Scripting in Unreal Engine )
 
 ### Engines
 - Unreal Engine
+- Planning on building my own one
 
 ## Projects
 - Dead by Gun Smoke
