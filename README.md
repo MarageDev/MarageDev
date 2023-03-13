@@ -12,10 +12,11 @@ I'm a French self taught developper and I'm coding on my spare time.
 - JavaScript
 - HTML5 & CSS
 - Blueprints ( Visual Scripting in Unreal Engine )
+- C++ ( currently learning )
 
 ### Engines
 - Unreal Engine
-- Planning on building my own one
+- Building my own one
 
 ## Projects
 - Dead by Gun Smoke
@@ -27,7 +28,7 @@ I'm aiming to do a game like the iconic SWAT 4, some of the gameplay from the se
 
 [![Discord](https://img.shields.io/badge/Dead_by_Gun_Smoke-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8T2Ba2V2hj)
 
-### Personal Projects 
+### Personal Little Projects 
 | Name         | Clipboard Master                                                 | Drum Master                                          | Master Mind |
 | :---         | :---:                                                            | :---:                                                | :--:        |
 | Information  | Add the possiblity to easily copy paste content between devices  | Quick drum rythm creator made for my little brother  | A simple Master Mind program made with python ( 1 or 2 players ) |
