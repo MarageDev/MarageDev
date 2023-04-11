@@ -16,7 +16,7 @@ I'm a French self taught developper and I'm coding on my spare time.
 
 ### Engines
 - Unreal Engine
-- Building my own one
+- Building my own engine with C++ and OpenGL
 
 ## Projects
 - Dead by Gun Smoke
