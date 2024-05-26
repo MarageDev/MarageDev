@@ -2,10 +2,10 @@
 I'm a French self taught developper and I'm coding on my spare time.
 
 ### Contact
-[![Marage](https://img.shields.io/badge/Marage-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
-[![Discord](https://img.shields.io/badge/Marage-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/729076099274768414)
-[![Reddit](https://img.shields.io/badge/Marage-%23FF5000.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/MarageDev)
-[![Website WIP](https://img.shields.io/badge/Website-9342f5?style=for-the-badge&logo=Github)](https://maragedev.github.io/Dead-by-Gun-Smoke-Website/)
+[![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/729076099274768414)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF5000.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/MarageDev)
+[![Website WIP](https://img.shields.io/badge/Website_WIP-9342f5?style=for-the-badge&logo=Github)](https://maragedev.github.io/Dead-by-Gun-Smoke-Website/)
 ## Coding Experience
 ### Languages
 - Python
