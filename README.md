@@ -13,12 +13,13 @@ I'm a French self taught developper and I'm coding on my spare time.
 - HTML5 & CSS
 - Blueprints ( Visual Scripting in Unreal Engine )
 - C++ ( currently learning )
+- C# ( learning from time to time )
 - GDScript ( in Godot )
 
 ### Engines
 - Unreal Engine
 - Godot
-- Building my own engine with C++ and OpenGL
+- Building my engine with C++ and OpenGL ( development paused )
 
 ## Projects
 - Dead by Gun Smoke
