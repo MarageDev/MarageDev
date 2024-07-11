@@ -1,5 +1,5 @@
 # Informations
-I'm a French self taught developper and I'm coding on my spare time.
+I'm a French self taught developper and I'm coding on my spare time. I'm also following a kind of pre-engineering program ( called CPGE, and more specifically the PT branch, in France ).
 
 ### Contact
 [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
@@ -8,17 +8,19 @@ I'm a French self taught developper and I'm coding on my spare time.
 [![Website WIP](https://img.shields.io/badge/Website_WIP-9342f5?style=for-the-badge&logo=Github)](https://maragedev.github.io/Dead-by-Gun-Smoke-Website/)
 ## Coding Experience
 ### Languages
-- Python
-- JavaScript
-- HTML5 & CSS
-- Blueprints ( Visual Scripting in Unreal Engine )
-- C++ ( currently learning )
-- C# ( learning from time to time )
-- GDScript ( in Godot )
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23efd81d.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23f4470b.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%23254bdd.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Blueprint (Visual Scripting)](https://img.shields.io/badge/Blueprint%20(Visual%20Scripting)-57768a?style=for-the-badge&logoColor=black)
+![GDScript (Godot)](https://img.shields.io/badge/GDScript%20(Godot)-4588b9?style=for-the-badge&logoColor=black)
+#### The ones I'm still learning
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ### Engines
-- Unreal Engine
-- Godot
+![Unreal Engine](https://img.shields.io/badge/unreal%20engine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) 
+![Godot](https://img.shields.io/badge/godot-%234588b9.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 - Building my engine with C++ and OpenGL ( development paused )
 
 ## Projects
