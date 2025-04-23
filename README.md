@@ -4,7 +4,6 @@ I'm a French self taught developper and I'm coding on my spare time. I'm also fo
 ### Contact
 [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/729076099274768414)
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF5000.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://www.reddit.com/user/MarageDev)
 [![Website WIP](https://img.shields.io/badge/Website_WIP-9342f5?style=for-the-badge&logo=Github)](https://maragedev.github.io/Dead-by-Gun-Smoke-Website/)
 ## Coding Experience
 ### Languages
@@ -27,8 +26,8 @@ I'm a French self taught developper and I'm coding on my spare time. I'm also fo
 - Dead by Gun Smoke
 ```markdown
   ! I don't have any story yet on my game
-Dead by Gun Smoke is a first person intense tactical shooter where your main goal is to keep as much safe lives as you could.
-I'm aiming to do a game like the iconic SWAT 4, some of the gameplay from the series Ghost Recon... 
+Dead by Gun Smoke is a first-person intense tactical shooter where your main goal is to keep as many safe lives as you can.
+I'm aiming to do a game like the iconic SWAT 4, with some of the gameplay from the series Ghost Recon... 
 ```
 
 [![Discord](https://img.shields.io/badge/Dead_by_Gun_Smoke-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8T2Ba2V2hj)
