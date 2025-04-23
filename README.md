@@ -1,4 +1,5 @@
 # Informations
+
 I'm a French self taught developper and I'm coding on my spare time. I'm also following a kind of pre-engineering program ( called CPGE, and more specifically the PT branch, in France ).
 
 ### Contact
@@ -22,8 +23,8 @@ I'm a French self taught developper and I'm coding on my spare time. I'm also fo
 ![Godot](https://img.shields.io/badge/godot-%234588b9.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 - Building my engine with C++ and OpenGL ( development paused )
 
-## Projects
-- Dead by Gun Smoke
+# Projects
+- Dead by Gun Smoke ( 15 Jan 2021 - ... )
 ```markdown
   ! I don't have any story yet on my game
 Dead by Gun Smoke is a first-person intense tactical shooter where your main goal is to keep as many safe lives as you can.
@@ -32,7 +33,7 @@ I'm aiming to do a game like the iconic SWAT 4, with some of the gameplay from t
 
 [![Discord](https://img.shields.io/badge/Dead_by_Gun_Smoke-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/8T2Ba2V2hj)
 
-### Little Personal Projects 
+### Other Personal Projects 
 | Name         | Clipboard Master                                                 | Drum Master                                          | Master Mind |
 | :---         | :---:                                                            | :---:                                                | :--:        |
 | Information  | Add the possiblity to easily copy paste content between devices  | Quick drum rythm creator made for my little brother  | A simple Master Mind program made with python ( 1 or 2 players ) |
