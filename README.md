@@ -1,6 +1,6 @@
 # Informations
 
-I'm a French self taught developper and I'm coding on my spare time. I'm also following a kind of pre-engineering program ( called CPGE, and more specifically the Physics Technology branch, in France ).
+I'm a French self taught developper and I'm coding on my spare time. I'm an engineering student at ENSPIMA, an engineering school specializing in industrial performance and maintenance within the aeronautical industry.
 
 ### Contact
 [![Youtube](https://img.shields.io/badge/Youtube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC4RlxyxpkrSelUOzUg0AV9A)
